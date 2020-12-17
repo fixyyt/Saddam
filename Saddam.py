@@ -19,8 +19,7 @@ LOGO = r'''
 	  \__ \/ __ `/ __  / __  / __ `/ __ `__ \
 	 ___/ / /_/ / /_/ / /_/ / /_/ / / / / / /
 	/____/\__,_/\__,_/\__,_/\__,_/_/ /_/ /_/ 
-	https://github.com/OffensivePython/Saddam
-	   https://twitter.com/OffensivePython
+
 '''
 
 HELP = (
